@@ -1,0 +1,27 @@
+{
+  "name": "emailing",
+  "version": "1.0.0",
+  "description": "a program to send mail to users",
+  "main": "app.js",
+  "scripts": {
+    "test": "app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webmeisterT/emailing.git"
+  },
+  "keywords": [
+    "\"email",
+    "nodejs-email\""
+  ],
+  "author": "Oluwatoyin AKINLUA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webmeisterT/emailing/issues"
+  },
+  "homepage": "https://github.com/webmeisterT/emailing#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.3",
+    "yarn": "^1.22.19"
+  }
+}
