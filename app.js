@@ -14,7 +14,7 @@ const transporter = nodemailer.createTransport({
     port: 465,
     auth: {
         user: 'kauna@missionschannel.org.ng',
-        pass: 'kauna@missionschannel.org.ng'
+        pass: 'pass'
     }
 });
 
